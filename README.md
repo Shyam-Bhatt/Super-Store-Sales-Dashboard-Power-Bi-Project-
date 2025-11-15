@@ -81,7 +81,7 @@ Visualization Design – Color palette, layout, and typography
 📁 6. Files in This Repository
 
 SuperStore_Sales_Dashboard.pbix – Main Power BI file
-README.md – Project documentation
+README.md – Project documentation,
 Dataset file
 
 
